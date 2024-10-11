@@ -1,6 +1,12 @@
-<img align="right" src="" alt="Coder GIF" width="420" height="330">
+<h1 align = "center">👋 Hello, I'm Neil! </h1> 
+<div align = "center"> 🧑‍💻 Data Analyst 🧑‍💻 Business Support Senior Specialist 🧑‍💻 Application Configuration Analyst</div>
 
-<h3 align = "center"> 👋 Hello, I'm Neil!</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-markneildavescabildo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-neil-daves-cabildo-46216729a/)](https://www.linkedin.com/in/mark-neil-daves-cabildo-46216729a/)
+
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+
+
+
 
 - 👋 Hi, I’m @Makneil
 - 👀 I’m interested in ...
