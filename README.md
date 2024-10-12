@@ -26,11 +26,13 @@ Data Analyst with over 4 years of experience in data management department on fi
 
 #### 🕵️ Expertise
 
-| Data Cleaning and Validation| Data Analysis| Project Management| Programming Skills
-|------------:|-----------:|------------:|-----------:|
+| Data Cleaning and Validation| Data Analysis| Project Management| Programming Skills | Data Visualizations
+|------------:|-----------:|------------:|-----------:|-----------:|
 
 
+#### 📂 Projects
 
+📊 EnrollMEnTRICS (https://github.com/Makneil/Enrollmentrics)
 
 <!---
 Makneil/Makneil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
